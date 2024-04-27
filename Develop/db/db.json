@@ -1,6 +1,11 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
-    }
+        "title":"Grocery List",
+        "text":"1.Rice\n2. Eggs\n3. Chocolate"
+    },
+    {
+        "title":"Checklist",
+        "text": "1.Gym\n2. Shower\n3. Eat"
+    },
+
 ]
