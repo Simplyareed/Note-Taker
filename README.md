@@ -21,6 +21,14 @@ License
 ## Landing Page
 When you open the Note Taker, you will be presented with a landing page containing a link to the notes page.
 
+
+![Screenshot_29-4-2024_152424_pacific-lake-23832-52483592f946 herokuapp com](https://github.com/Simplyareed/Note-Taker/assets/157844688/220db27f-dc32-47ac-ac3c-0e610a2137db)
+
+## Link to website 
+
+https://pacific-lake-23832-52483592f946.herokuapp.com/
+
+
 ## Notes Page
 Click on the "Get Started" button to navigate to the notes page.
 Existing notes (if any) will be displayed in the left-hand column.
