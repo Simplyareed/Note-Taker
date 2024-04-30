@@ -16,7 +16,6 @@ Usage
 Credits
 License
 
-## Usage
 
 ## Landing Page
 When you open the Note Taker, you will be presented with a landing page containing a link to the notes page.
